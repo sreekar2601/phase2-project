@@ -1,3 +1,6 @@
+
+
+create database mydb;
 create table admin(username VARCHAR(20),password VARCHAR(20));
 create table teachers(Name VARCHAR(10),Subject VARCHAR(10), Age INT , Course varchar(10));
 create table Classes(Name VARCHAR(10),Section VARCHAR(10), Strength INT , CR varchar(10));
